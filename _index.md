@@ -3,6 +3,9 @@ title: VIP Monet (Fall, 2022)
 type: book
 icon_pack: fas
 icon: chalkboard-teacher
+
+summary: "Nikki A. Arakawa(EE496), Jennifer J. Guo (EE496), Desmond Lum (EE496), Adrianna F. Saymo (EE496), Branden L. Tsuji-Jones (EE496), NIcholas A. Ali (ENGR396),  Liam K. Tapper (ENGR296), and Edward B. Maloney (ENGR196)"
+
 ---
 ## Schedule
 | Deliverable                               | Deadline               |
