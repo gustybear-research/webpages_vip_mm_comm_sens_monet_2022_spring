@@ -1,8 +1,10 @@
 ---
-title: "VIP MONET: Design Notebook Template"
+title: "VIP MONET: Design Notebook [YYYY-MM-DD]"
 date: 2022-01-13
 type: book
 commentable: true
+
+# Copy this file and name it with "YYYY-MM-DD.md" when creating new notebook
 
 # Provide the name of the presenter
 summary: "Nikki A. Arakawa(EE496), Jennifer J. Guo (EE496), Desmond Lum (EE496), Adrianna F. Saymo (EE496), Branden L. Tsuji-Jones (EE496), NIcholas A. Ali (ENGR396),  Liam K. Tapper (ENGR296), and Edward B. Maloney (ENGR196)"
