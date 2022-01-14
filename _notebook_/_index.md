@@ -1,5 +1,5 @@
 ---
-title: "Design Notebook"
+title: "Notebook"
 date: 2022-01-13
 type: book
 commentable: true
