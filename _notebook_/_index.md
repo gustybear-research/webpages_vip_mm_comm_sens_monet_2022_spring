@@ -1,11 +1,11 @@
 ---
-title: "VIP MONET: Design Notebook"
+title: "Design Notebook"
 date: 2022-01-13
 type: book
 commentable: true
 
 # Provide the name of the presenter
-summary: "Unbridged design notebooks"
+summary: "Unbridged design notes."
 
 # Provide other tags that describe the paper
 tags:

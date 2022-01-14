@@ -1,5 +1,5 @@
 ---
-title: "VIP MONET: Design Notebook [YYYY-MM-DD]"
+title: "Notebook [YYYY-MM-DD]"
 date: 2022-01-13
 type: book
 commentable: true
@@ -7,7 +7,7 @@ commentable: true
 # Copy this file and name it with "YYYY-MM-DD.md" when creating new notebook
 
 # Provide the name of the presenter
-summary: "Notebook YYYY-MM-DD"
+summary: "Notebook for YYYY-MM-DD"
 
 # Provide other tags that describe the paper
 tags:
