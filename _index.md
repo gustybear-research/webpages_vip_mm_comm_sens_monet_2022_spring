@@ -4,7 +4,7 @@ type: book
 icon_pack: fas
 icon: chalkboard-teacher
 ---
-#Schedule
+## Schedule
 | Deliverable                               | Deadline               |
 | ---                                       | ---                    |
 | Project proposal                          | 1/27 16:59PM           |
