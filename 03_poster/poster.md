@@ -1,5 +1,5 @@
 ---
-title: "VIP MONET: Design Notebook 20220120"
+title: "VIP MONET (Fall 2022): 03 Project Poster"
 date: 2022-01-13
 type: book
 commentable: true
@@ -19,4 +19,3 @@ tags:
 - fresnel zone analysis
 
 ---
-{{< list_children >}}

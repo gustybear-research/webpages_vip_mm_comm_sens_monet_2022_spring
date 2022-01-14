@@ -1,5 +1,5 @@
 ---
-title: "VIP MONET (Fall 2022): Project Proposal"
+title: "VIP MONET (Fall 2022): 01 Project Proposal"
 date: 2022-01-13
 type: book
 commentable: true

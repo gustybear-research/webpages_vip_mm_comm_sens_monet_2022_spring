@@ -1,5 +1,5 @@
 ---
-title: "01 VIP MONET: Design Notebook"
+title: "VIP MONET: Design Notebook"
 date: 2022-01-13
 type: book
 commentable: true

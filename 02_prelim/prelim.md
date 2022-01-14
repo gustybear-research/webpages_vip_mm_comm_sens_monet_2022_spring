@@ -1,5 +1,5 @@
 ---
-title: "VIP MONET (Fall 2022): Preliminary Design Report"
+title: "VIP MONET (Fall 2022): 02 Preliminary Design Report"
 date: 2022-01-13
 type: book
 commentable: true
