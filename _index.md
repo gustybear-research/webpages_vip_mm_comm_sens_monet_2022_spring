@@ -1,5 +1,5 @@
 ---
-title: VIP Monet (Fall, 2022)
+title: VIP Monet (Spring, 2022)
 type: book
 icon_pack: fas
 icon: chalkboard-teacher
