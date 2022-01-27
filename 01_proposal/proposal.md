@@ -5,7 +5,7 @@ type: book
 commentable: true
 
 # Provide the name of the presenter
-summary: "Provide one or two sentences to describe the project proposal."
+summary: The project proposal describes the objective and purpose of LoS MIMO communication in vehicles, and how we use an experimental setup to verify optimal spacing arrangements of antennas to effectively employ MIMO in such situations.
 
 # Provide other tags that describe the paper
 tags:
