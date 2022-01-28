@@ -37,17 +37,21 @@ In mmWave MIMO communication, a phased array is used to concentrate the wave in 
 # Theoretical Understanding of LoS mmWave MIMO 
 
 For our specific implementation, we are aiming to achieve high bandwidth sensor communication between cars. Line-of-sight, or LOS propagation was the traditional method of signal transmission between a transmitter and receiver, and allowed for coherence and maximum power. However, just LOS transmission by itself comes with a drawback: The closeness of individual transmitters will affect the overall degree of freedom of the system [1]. If the transmitters are not a sufficient distance apart from each other, the individual signals will sum into one general signal that the receivers will see. 
-	MIMO counters the loss of DOF by employing multiple transmitters and receivers that are spaced in such a way that allows the receivers to differentiate between the transmitters, effectively increasing the overall resolution of the data. However this strategy is also flawed in that it produces a much lower power wave across transmission. 
+
+MIMO counters the loss of DOF by employing multiple transmitters and receivers that are spaced in such a way that allows the receivers to differentiate between the transmitters, effectively increasing the overall resolution of the data. However this strategy is also flawed in that it produces a much lower power wave across transmission. 
+
 The signal-to-noise ratio (SNR)  affects the effectiveness of the antenna geometry. Thus, the spacing of the antennas must change when the SNR is variable in the environment. With MIMO however, spacing of the antenna layout can also be emulated by changing the relative orientation of the transmitters and receivers. 
 
 # Proposed Evaluation
 
 To evaluate the effectiveness of MIMO in an optimal arrangement of transmitters and receivers, we will perform several experiments involving the use of a 2x2 channel array with transmitter and receiver antennas. The transmitter and receiver will be powered by 2 computers, with the transmitter using a phase array to continuously beam-form a signal across the distance from transmitter to receiver. A Windows PC will be used to move the transmitter and receiver antenna, as well as collect the CSI, or Channel State Information that allows us to calculate the signal conditions from transmitter to receiver, which will tell us the optimal positions for the antennas and the reflector surface.  
-	Rayleigh's Criterion tells us about the distinguishability of a signal. If the distance between transmitters is such that the following equation is true:
+	
+Rayleigh's Criterion tells us about the distinguishability of a signal. If the distance between transmitters is such that the following equation is true:
 
 <img src=" ">
 
-then the resultant vectors in the channel matrix come out to be orthogonal.
+then the resultant vectors in the channel matrix come out to be orthogonal. 
+
 When transmitters send signals simultaneously, there is a challenge for the receivers to distinguish each signal. Since there is a linear relationship between the signal's parameters, finding the “matrix” (pre-setup scalar) for the computer will help receivers to identify which transmitter the signal is from. 
 
 # Conclusion
@@ -57,5 +61,6 @@ Currently and in the future, there will be more connected devices and more wirel
 # References
 
 [1] Haejoon Jung, In-Ho Lee, "Secrecy Performance Analysis of Analog Cooperative Beamforming in Three-Dimensional Gaussian Distributed Wireless Sensor Networks", Wireless Communications IEEE Transactions on, vol. 18, no. 3, pp. 1860-1873, 2019.
+
 [2] Angel Lozano, “Old Theory Up to New Tricks Issue 25 Aug 2021” in IEEE Community Society,  Jan. 2022. [Online]. Available: https://www.comsoc.org/publications/ctn/old-theory-new-tricks
 
