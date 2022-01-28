@@ -4,7 +4,16 @@ type: book
 icon_pack: fas
 icon: chalkboard-teacher
 
-summary: "Nikki A. Arakawa(EE496), Jennifer J. Guo (EE496), Desmond Lum (EE496), Adrianna F. Saymo (EE496), Branden L. Tsuji-Jones (EE496), NIcholas A. Ali (ENGR396),  Liam K. Tapper (ENGR296), and Edward B. Maloney (ENGR196)"
+authors:
+- Nikki A. Arakawa
+- Jennifer J. Guo
+- Desmond Lum
+- Adrianna F. Saymo
+- Branden L. Tsuji-Jones
+- Nicholas A. Ali
+- Liam K. Tapper
+- Edward B. Maloney
+- Yao Zheng
 
 ---
 ## Schedule
