@@ -29,7 +29,6 @@ authors:
 - Nicholas A. Ali
 - Liam K. Tapper
 - Edward B. Maloney
-- Yao Zheng
 ---
 
 # Abstract
