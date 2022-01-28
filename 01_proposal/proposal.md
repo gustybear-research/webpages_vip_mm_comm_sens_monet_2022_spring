@@ -20,6 +20,16 @@ tags:
 
 weight: 01
 
+authors:
+- Nikki A. Arakawa
+- Jennifer J. Guo
+- Desmond Lum
+- Adrianna F. Saymo
+- Branden L. Tsuji-Jones
+- Nicholas A. Ali
+- Liam K. Tapper
+- Edward B. Maloney
+- Yao Zheng
 ---
 
 # Abstract
