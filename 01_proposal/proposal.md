@@ -57,7 +57,7 @@ To evaluate the effectiveness of MIMO in an optimal arrangement of transmitters 
 	
 Rayleigh's Criterion tells us about the distinguishability of a signal. If the distance between transmitters is such that the following equation is true:
 
-<img src=" ">
+<img src="webpages_vip_mm_comm_sens_monet_2022_spring/01_proposal/images/distance_equation.png">
 
 then the resultant vectors in the channel matrix come out to be orthogonal. 
 
