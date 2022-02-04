@@ -58,7 +58,7 @@ Rayleigh's Criterion imposes specific distances that we can place our antennas s
 
 <img src="https://github.com/gustybear-research/webpages_vip_mm_comm_sens_monet_2022_spring/raw/main/01_proposal/images/distance_equation.png">
 
-Note that the number of antenna itself affects the optimal distance, so it is possible to have multiple optimal distances at which multiple DOFs are achieved. 
+Note that the number of antennas affects the optimal distance, so it is possible to have multiple optimal distances at which multiple DOFs are achieved. 
 
 # Proposed Evaluation (Desmond, Adrianna, Nikki)
 
