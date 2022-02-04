@@ -43,11 +43,6 @@ The widening application of ITS promises significant advancement of the transpor
 To this end, mmWave transmission is a promising venue for cooperative vehicular communication, owing to its powerful propagation over short distances. The mmWave spectrum ranges from 24 GHz to 300 GHz, though this project will focus primarily on frequencies between 24 to 32 GHz. At such frequencies, the multiple data streams required for cooperative driving theoretically can be supported, though new challenges arise in practice. A network where individual vehicles use radar sensing to ascertain their own surroundings, while simultaneously communicating that information to other vehicles who in turn share their own data would result in great congestion of the overall system spectrum. This reality makes paramount the reduction of the Signal to Noise Ratio (SNR) experienced by a system in order to facilitate optimum signal transmission. Enter the MIMO paradigm, which is oriented to support multiple information streams across an array of transmitters and receivers. The increased DOF offered by such a system is ideal for cooperative driving technology, but accuracy of transmission must also be considered. In mmWave MIMO communication, a phased array is used to concentrate the wave in a particular direction. A reflective surface is also used to propagate the signal in a way that assists the receiver antenna to differentiate between the different transmitters. This differentiation between signals is important in the context of vehicular communication, as these different signals would end up being different information from various sensors within the car. LoS multipath propagation has been standard in MIMO systems, as it ensures maximum received power to maintain signal coherence. LoS propagation also carries limiting factors that must be addressed, particularly that there must be no physical obstruction between the transmitter and receiver. These complications can be mitigated through the strategic placement and spacing of antennas within a MIMO system, ensuring optimal conditions for signal transmission. 
 	
 This research project will explore the design and implementation of a LoS-MIMO communication system as applied to a cooperative driving network. Of particular interest is the placement of antennas within such a system to maximize transmission power while minimizing signal interference. 
- 
-
-# Motion of mmWave MIMO For Vehicular Communication
-
-In mmWave MIMO communication, a phased array is used to concentrate the wave in a particular direction. A reflective surface is also used to propagate the signal in a way that assists the receiver antenna to differentiate between the different transmitters. This differentiation between signals is important in the context of vehicular communication, as these different signals would end up being different information from various sensors within the car. 
 
 # Theoretical Understanding of LoS mmWave MIMO (Desmond, Adrianna)
 
@@ -72,10 +67,6 @@ To evaluate the effectiveness of MIMO in an optimal arrangement of transmitters 
 In order to experiment with different antenna orientations, we plan on using a moving stage. The antennas will be mounted on the X-LHM-E series, which is a motorized linear stage with built-in controllers and motor controllers. This will allow us to simulate the antenna mounted on a moving vehicle and determine optimal spacing and orientation. 
 
 <img src="https://github.com/gustybear-research/webpages_vip_mm_comm_sens_monet_2022_spring/blob/main/01_proposal/images/moving_stage.png">
-	
-Rayleigh's Criterion tells us about the distinguishability of a signal. If the distance between transmitters is such that the following equation is true:
-
-then the resultant vectors in the channel matrix come out to be orthogonal. 
 
 When transmitters send signals simultaneously, there is a challenge for the receivers to distinguish each signal. Since there is a linear relationship between the signal's parameters, finding the “matrix” (pre-setup scalar) for the computer will help receivers to identify which transmitter the signal is from. 
 
