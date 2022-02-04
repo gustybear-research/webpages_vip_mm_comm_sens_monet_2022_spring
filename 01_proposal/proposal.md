@@ -31,7 +31,7 @@ authors:
 - Edward B. Maloney
 ---
 
-# Abstract
+# Abstract (Jennifer)
 
 Vehicular communication in the millimeter wave (mmWave) band has been recently proposed to realize multi-Gbps data rates and support future intelligent transportation systems (ITS) [1]. Radar sensors are commonly used in ITS for some advanced vehicles to scan surrounding and detect the object due to its sensitivity regardless of the environment. Recently, scholars’ attention focuses on the concept of LOS (Line-of-Sight) MIMO (Multiple-input Multiple-output) for antennas in radar sensors due to the striking features of maximum received power over the direct LOS path and a multiplicity of DOFs[2]. Although this concept improves the sensor’s performance, it is often practically difficult to transmit messages accurately in high frequency. The implementation of LOS MIMO requires exceedingly precise and suitable antenna spacing. Therefore, this focus group aims to investigate suitable spacing between antennas and test LOS MIMO’s performance on communication and sensing for autonomous vehicles. We propose to do simulations in Matlab and HFSS for a set of 2X2 spatial multiplexing antennas at millimeter wave and then evaluate practical performance on a testbed.
 
