@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Notebook [YYYY-MM-DD]"
 date: 2022-01-13
 type: book
