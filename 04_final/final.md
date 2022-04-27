@@ -36,6 +36,8 @@ Cooperative driving can be defined as technology used to coordinate groups of ve
 
 # Results and Analysis
 
-# Conclusion
+# Conclusion (Nikki is still editing)
+
+Understanding how to build and implement a MIMO based system will allow for further advancement in wireless communications leading to high frequency, high bandwidth, wireless communications on the commercial and consumer level. In order to be able to test LOS MIMO communications, for the purpose of car-to-car communications, this research aimed to build a physical testbed based on LoS and multipath communication models with minimal opportunity for scattering. The testbed will then be used to find D_Rx, the distance between the antennas in the receiving array that will lead to high-rank support for MIMO communications. Each D_Rx will be tested and optimal configuration for MIMO communications support will be determined. This research aims to expand understanding and implementation of MIMO communications further widening its functions in car-to-car communications and to more industries and uses.
 
 # Appendix
