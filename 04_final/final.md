@@ -28,9 +28,9 @@ Cooperative driving can be defined as technology used to coordinate groups of ve
 
 # Introduction
 
-# Background
+# Background (Adrianna/Branden)
 
-# Methodology
+# Methodology (Adrianna/Branden)
 
 # Implementation and Experimentation
 
