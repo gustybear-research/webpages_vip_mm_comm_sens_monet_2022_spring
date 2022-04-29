@@ -24,9 +24,11 @@ weight: 04
 
 # Executive Summary
 
-Cooperative driving can be defined as technology used to coordinate groups of vehicles to improve efficiency and safety. For vehicles to effectively communicate with each other, a large data stream bandwidth is needed for all the necessary sensor data that are used in modern cars. Our current standard is the sub-6GHz range, which does not supply a large enough bandwidth for all this data. We propose the use of mmWave technology, which can supply a data stream bandwidth within the 32GHz range. However, this technology comes with some drawbacks, such as strong attenuation and lack of signal coherence over long distances. The use of MIMO and LoS techniques can give us maximum power while maintaining multiple degrees-of-freedom in our signal transmission.
+Cooperative driving technology can be used to alleviate congestion and reduce traffic incidents on the road. For vehicles to effectively communicate with each other, a large data stream bandwidth is needed for all the necessary sensor data that are used in modern cars. Our current standard is the sub-6GHz range, which does not supply a large enough bandwidth for all this data. We propose the use of mmWave technology, which can supply a data stream bandwidth within the 32GHz range. The use of MIMO and LoS techniques can give us maximum power while maintaining multiple degrees-of-freedom in our signal transmission.
 
 # Introduction
+
+ Cooperative driving can be defined as technology used to coordinate groups of vehicles to improve efficiency and safety. As modern cars are equipped with more and more sensors that track details within and outside the car, we can utilize this sensor data to effectively communicate with other vehicles to coordinate driving, which is another step toward autonomous vehicles. The main issue that prevents wireless communication between vehicles is the lack of usable bandwidth with standard communication technology. With mmWave technology, we have the bandwidth required to communicate all the sensor data.  However, this technology comes with some drawbacks, such as strong attenuation and lack of signal coherence over long distances. 
 
 # Background
 
