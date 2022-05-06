@@ -37,10 +37,9 @@ Our solution is to combine both of these technologies and create LoS mmWave MIMO
 
 
 # Methodology
+A network analyzer will be used to generate a low frequency signal that will be used as our test signal. The test signal will then be sent to a frequency converter to convert the low frequency signal to a high frequency signal. The high frequency signal will then be sent using the sending antenna (TX) over a channel. The channel being the wireless airspace between the TX and RX antennas. The high frequency signal will then be received by the RX antenna and converted back down to a low frequency signal to be received by the RX port of the network analyzer. The network analyzer will then be used to display, process and evaluate the results of the test signal. A computer interface, Labview, will be responsible for storing the csi to a folder location on a pc.
 
 # Implementation and Experimentation
-
-A network analyzer will be used to generate a low frequency signal that will be used as our test signal. The test signal will then be sent to a frequency converter to convert the low frequency signal to a high frequency signal. The high frequency signal will then be sent using the sending antenna (TX) over a channel. The channel being the wireless airspace between the TX and RX antennas. The high frequency signal will then be received by the RX antenna and converted back down to a low frequency signal to be received by the RX port of the network analyzer. The network analyzer will then be used to display, process and evaluate the results of the test signal. A computer interface, Labview, will be responsible for storing the csi to a folder location on a pc.
 
 # Results and Analysis
 
