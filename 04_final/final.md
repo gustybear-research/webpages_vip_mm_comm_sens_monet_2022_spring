@@ -66,4 +66,5 @@ Understanding how to build and implement a MIMO based system will allow for furt
 
 # Appendix
 [1] Haejoon Jung, In-Ho Lee, "Secrecy Performance Analysis of Analog Cooperative Beamforming in Three-Dimensional Gaussian Distributed Wireless Sensor Networks", Wireless Communications IEEE Transactions on, vol. 18, no. 3, pp. 1860-1873, 2019.
+
 [2] Angel Lozano, “Old Theory Up to New Tricks Issue 25 Aug 2021” in IEEE Community Society,  Jan. 2022. [Online]. Available: https://www.comsoc.org/publications/ctn/old-theory-new-tricks
