@@ -70,6 +70,10 @@ Utilizing Zaber's Python libraries, a script has been developed in order to adju
 
 Although Line of Sight(LoS) multiple-input multiple-output(MIMO) enhances the transmission rate and provides reliable communication, the Los MIMO communication systems have attracted considerable attention on channel capacity without increasing the bandwidth or beam power. The first simulation proposes to analyze the antennas’ spacing effect on the channel capacity. The antennas are placed as a 2 by 2 array with distinct spacing between transmitters and receivers as shown in figure1. In ideal antenna case, the channel capacity is on the peak when antenna’s separation has a scaled relationship with wavelength as dtx*drx=R*lamda/n. “N” represents column number of the array and lamda is the signal’s wavelength. If the transmission distance increases, antennas must increase separating space to maintain a good channel capacity. When the transmitter's spacing is smaller, the channel capacity shifts to the left, and channel capacity significantly decreases as shown in figure 2. 
 
+![Figure 1](04_final/images/figure 1.png)
+![Figure 2](04_final/images/figure 2.png)
+
+
 Since the ultimate purpose of this project is to design radar sensors for autonomous vehicles, the spacing distance is constrained due to the size of the car. In order to maintain the high channel capacity for short spacing antennas, a reflector can be invoked as a solution. Figure 3 is the 2 by 2 antenna array with a reflector moving horizontally. In this case dtx*drx< R*lamda/n, it is expected that the channel capacitor won’t be sufficient as in the last case. The simulation is completed with a 3 by 3 array for the better visible result. In figure 4, it shows all antennas have good channel capacity. However, the reflector size, distance and angle to the antennas vary the channel capacity performance. The reflector’s effect on the channel capacity is on our future research list. 
 
 
