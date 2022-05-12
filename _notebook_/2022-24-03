@@ -1,0 +1,25 @@
+---
+title: "2022-24-03"
+date: 2022-24-03
+type: book
+commentable: true
+
+weight: 20220203
+---
+
+# Work
+
+Start working on backend programming to connect to physical connections to move the motor. Motor details are below.
+
+<img src="https://github.com/gustybear-research/webpages_vip_mm_comm_sens_monet_2022_spring/blob/main/_notebook_/images/2.24%20zaber.jpg">
+Figure 1: Zaber linear stage information for future reference. 
+
+<img src="https://github.com/gustybear-research/webpages_vip_mm_comm_sens_monet_2022_spring/blob/main/_notebook_/images/2.24%20dashboard%20corrections.png">
+Figure 2: Dashboard corrections
+
+<img src="https://github.com/gustybear-research/webpages_vip_mm_comm_sens_monet_2022_spring/blob/main/_notebook_/images/2.24%20dashboard%20future.png">
+Figure 3: Future dashboard additions for NI Labview
+
+# Note
+- Zaber move device motion library
+- https://www.zaber.com/software/docs/motion-library/ascii/tutorials/move_device/
