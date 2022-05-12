@@ -70,7 +70,7 @@ Utilizing Zaber's Python libraries, a script has been developed in order to adju
 
 Although Line of Sight(LoS) multiple-input multiple-output(MIMO) enhances the transmission rate and provides reliable communication, the Los MIMO communication systems have attracted considerable attention on channel capacity without increasing the bandwidth or beam power. The first simulation proposes to analyze the antennas’ spacing effect on the channel capacity. The antennas are placed as a 2 by 2 array with distinct spacing between transmitters and receivers as shown in figure1. In ideal antenna case, the channel capacity is on the peak when antenna’s separation has a scaled relationship with wavelength as dtx*drx=R*lamda/n. “N” represents column number of the array and lamda is the signal’s wavelength. If the transmission distance increases, antennas must increase separating space to maintain a good channel capacity. When the transmitter's spacing is smaller, the channel capacity shifts to the left, and channel capacity significantly decreases as shown in figure 2. 
 
-![Figure 1](04_final/images/figure 1.png)
+![Figure 1](https://github.com/gustybear-research/webpages_vip_mm_comm_sens_monet_2022_spring/blob/81e9a6414ae7852dedd8d569b0bccac6bb836899/04_final/images/figure%201.png)
 ![Figure 2](04_final/images/figure 2.png)
 
 
