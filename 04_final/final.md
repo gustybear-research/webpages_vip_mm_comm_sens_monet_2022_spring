@@ -58,6 +58,14 @@ This project is still in its early stages; and so, our initial methodology is ba
 
 # Implementation and Experimentation
 
+We will discuss two parts of our implementation: the hardware and the software sides. The hardware used in this experiment included the Zaber stage, antenna arrays, and a signal analyzer. The Zaber stage as mentioned earlier is the X-SLM model. This motorized stage allowed us to automatically position the antenna arrays on one axis. By placing our antenna arrays on the moving stage, we can simulate the antenna mounted on a moving vehicle and determine optimal spacing and orientation. 
+ For our antenna arrays, we used the BBox Lite 5G. The BBox lite antenna arrays are mmWave beamformers and are placed in line with their respective pair. Utilizing the Zaber stages, a 2x2 signal matrix will be constructed such that the best MIMO channel matrix is achieved. For the collection of signal data, a signal analyzer, as seen in Figure 2 to the right, will be used to convert streams of data into baseband signals for further analysis.
+
+Our software implementation includes a LabVIEW interface, as well as an X-LSM Zaber stage Python script. The Labview front end interface contains three panels sectioning graphical interface for the TX, RX, and CSI. The TX and RX panels are responsible for controlling the stage position with a slider input, managing a beam's gain with a numerical input, as well as ensuring a connection with the desired component through a serial number output. The CSI panel contains a string output for the pilot carrier information and a file location input to dump the data for further analysis. The TX and RX sections on the CSI panel contain inputs for an IP address, carrier frequency, and bandwidth, followed by a run button.
+The functionality of Labview's GUI will be configured through LabVIEW's visual scripting software. Since this was a first-semester project, this task will be part of our future work and should resemble an example designed by TMYTEK.
+Utilizing Zaber's Python libraries, a script has been developed in order to adjust the X-LSM stages remotely and will eventually be implemented with LabVIEW.
+
+
 # Results and Analysis
 
 # Conclusion 
