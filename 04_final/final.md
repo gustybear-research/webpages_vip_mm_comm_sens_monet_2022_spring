@@ -24,7 +24,10 @@ weight: 04
 
 # Executive Summary
 
-Cooperative driving technology can be used to alleviate congestion and reduce traffic incidents on the road. For vehicles to effectively communicate with each other, an extremely large data stream bandwidth is needed for all of the necessary sensor data that are used in modern cars. The current IEEE standard operates in a range less than 6 GHz, which does not supply a large enough bandwidth for all of this required data. We propose the use of mmWave technology, which can supply a data stream bandwidth within the 24 to 32 GHz range. The use of additional MIMO and LoS techniques can give us maximum power while maintaining multiple degrees of freedom in our signal transmission.
+Cooperative driving technology can be used to alleviate congestion and reduce traffic incidents on the road. For vehicles to effectively communicate with each other, an extremely large data stream bandwidth is needed for all of the necessary sensor data that are used in modern cars. The current IEEE standard operates in a range less than 6 GHz, which does not supply a large enough bandwidth for all of this required data. The aim of this project is to design a millimeter-wave (mmWave) communication system with integrated radar sensing capabilities. As a promising technology, radio communication at mmWave frequencies, particularly between 24 to 32 GHz, can meet the data rate demand of future generations of wireless networks.
+
+Unfortunately, the mmWave bands are often used by short-range radar sensors essential for applications such as autonomous vehicles and remote healthcare. Introducing a separate communication system in these bands would lead to extra congestion in this spectrum of frequencies, leading to suboptimal performance for both communication and sensing. To address this issue, MONET aims to unify mmWave radar and communication functions via the multiple-input and multiple-output (MIMO) technique augmented by reconfigurable reflective arrays to achieve reliable communication and accurate radar sensing. Coupling mmWave technology with MIMO and other techniques such as the line-of-sight (LoS) method can give us maximum power while maintaining multiple degrees of freedom in our signal transmission.
+
 
 # Introduction
 
